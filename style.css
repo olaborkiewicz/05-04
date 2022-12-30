@@ -1,0 +1,16 @@
+.container {
+  display: flex;
+  margin: auto;
+  width: 80%;
+  height: fit-content;
+  flex-wrap: wrap;
+  background-color: rgb(154, 222, 222);
+}
+
+.item {
+  display: flex;
+  width: 30%;
+  height: 50px;
+  background-color: green;
+  margin-right: 5%;
+}
